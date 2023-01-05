@@ -21,7 +21,7 @@ Quando definimos o tipo de uma variável, nós especificamos qual tipo de inform
 
 Se definimos uma variável como sendo de um tipo numérico, nós só poderemos guardar números nesta variável.
 
-> **Note**
+> **Note**:
 > É importante salientar que nem todas as linguagens têm o conceito de tipo de dado.
 > As linguagens que chamamos de **“fortemente tipadas”**, como o **C#** e o **Java**, apresentam este conceito.
 > Agora, temos algumas linguagens que chamamos de **“fracamente tipadas”**, como o **PHP** e o **JavaScript**, onde as variáveis não possuem um tipo, somente o nome.
