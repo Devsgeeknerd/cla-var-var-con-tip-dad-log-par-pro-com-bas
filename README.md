@@ -23,10 +23,15 @@ Se definimos uma variável como sendo de um tipo numérico, nós só poderemos g
 
 > **Note**:
 > É importante salientar que nem todas as linguagens têm o conceito de tipo de dado.
+>
 > As linguagens que chamamos de **“fortemente tipadas”**, como o **C#** e o **Java**, apresentam este conceito.
+>
 > Agora, temos algumas linguagens que chamamos de **“fracamente tipadas”**, como o **PHP** e o **JavaScript**, onde as variáveis não possuem um tipo, somente o nome.
+>
 > Isso quer dizer que uma variável pode guardar, a cada momento, um texto e um número por exemplo.
+>
 > O *Scratch*, ferramenta que utilizaremos, apresenta uma tipagem fraca, por exemplo.
+>
 > Porém, vamos utilizá-lo como se ele tivesse tipagem forte.
 
 Veja um exemplo de definição de uma variável:
